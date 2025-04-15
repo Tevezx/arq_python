@@ -1,0 +1,1 @@
+Registro Inicial: <built-in method now of type object at 0x00007FFB8EC7C0F0>Adição posterior: 2025-04-15 10:07:18.612321
