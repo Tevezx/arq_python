@@ -13,7 +13,7 @@ main()
 '''
 # .a = append .r = read  .w = write try = tente com  exept = ecessao
 
-#
+'''
 import datetime
 def ler_arquivo():
     try:
@@ -46,3 +46,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+'''
+
